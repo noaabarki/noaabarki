@@ -5,7 +5,7 @@
       <a href="https://www.linkedin.com/in/noaa-barki-159498163/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="your-youtube-URL">
+      <a href="https://www.youtube.com/user/noabarki8484">
         <img src="https://img.shields.io/badge/YouTube-red?style=logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
       <a href="https://twitter.com/BarkiNoaa">
