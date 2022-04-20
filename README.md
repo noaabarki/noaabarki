@@ -26,13 +26,13 @@
   ---
 
 ### :woman_technologist: About Me :
-I am a Developer Advocate and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tel Aviv, Israel, who wish to encourage us developers to deepen the decisions we make during the development processes, research about the technologies we use and share our knowledge. 
+I am a Developer Advocate and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tel Aviv, Israel, who wishes to encourage us developers to deepen the decisions we make during the development processes, research the technologies we use and share our knowledge. 
 
 - :telescope: I’m working as a Software Engineer and Developer Advocate and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time I enjoy crossfit training, cooking, baking and I'm one of the leaders of GitHub IL community.
+- :zap: On my free time, I enjoy CrossFit training, cooking, and baking, and I'm one of the leaders of the GitHub IL community.
 
 - :mailbox: Find me on Twitter!
 
