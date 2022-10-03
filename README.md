@@ -70,6 +70,19 @@ I am a Developer Advocate and a Full Stack Developer <img src="https://media.gip
 - [Dont underestimate the (git) push force](https://medium.com/@noaabarki/dont-underestimate-the-push-force-5cba944a246d)
 - [What Kubernetes taught me about development](https://opensource.com/article/21/12/kubernetes-developer)
 - [Implement governance on your Kubernetes cluster](https://opensource.com/article/21/12/kubernetes-gatekeeper)
+- [ArgoCD best paractices you should know](https://www.datree.io/resources/argocd-best-practices-you-should-know)
+- [EKS best practices you should know](https://www.datree.io/resources/eks-best-practices-you-should-know)
+
+### 🎥 Videos:
+- [How Mobx (Almost) Destroyed My Relationship | ReactNext 2021 (English)](https://www.youtube.com/watch?v=2eJTFt5htS0&ab_channel=ReactNext)
+- [The battle of policies: OPA Rego vs JSON schema | YallaDevOps 2022 (Hebrew)](https://www.youtube.com/watch?v=7yzimMxOmp0&t=320s&ab_channel=JFrog)
+- [Validating Configs from Code to Deployment in the GitOps World | WTFiSRE 2022 (English)](https://www.youtube.com/watch?v=EYWoC0cWnWU&t=624s&ab_channel=ContainerSolutions)
+- [What we learned from reading 100+ Kubernetes Post-Mortems | Berlin Buzzwords (English)](https://www.youtube.com/watch?v=XUnDV69V0n0&t=1595s&ab_channel=PlainSchwarz)
+- [How to build centralized policy management at scale? | NDC Security 2022 (English)](https://www.youtube.com/watch?v=H6HZYZGuJbE&t=14s&ab_channel=NDCConferences)
+- [Deep-dive into Open Policy Agent + Conftest + GateKeeper | Conf42 Cloud Native 2022 (English)](https://www.youtube.com/watch?v=1F5sGy3ONW4&t=9s&ab_channel=Conf42)
+- [ArgoCD best practices | 2022 (English)](https://www.youtube.com/watch?v=Hoh5oJnfpKA&t=16s&ab_channel=Datree)
+- [Don't underestimate the git push --force | 2021 (Hebrew)](https://www.youtube.com/watch?v=UfaCFq6jNlU&ab_channel=PullRequest)
+- [Git bisect & rerere | 2021 (Hebrew)](https://www.youtube.com/watch?v=6zklLJHsBME&t=110s&ab_channel=PullRequest)
 
 <!--
 **noaabarki/noaabarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
