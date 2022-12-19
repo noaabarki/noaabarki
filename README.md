@@ -72,6 +72,7 @@ I am a Developer Advocate and a Full Stack Developer <img src="https://media.gip
 - [Implement governance on your Kubernetes cluster](https://opensource.com/article/21/12/kubernetes-gatekeeper)
 - [ArgoCD best paractices you should know](https://www.datree.io/resources/argocd-best-practices-you-should-know)
 - [EKS best practices you should know](https://www.datree.io/resources/eks-best-practices-you-should-know)
+- [Let's Go! Why Golang is the way to go :)](https://dev.to/noaabarki/lets-go-why-golang-is-the-way-to-go--3a5g)
 
 ### 🎥 Videos:
 - [How Mobx (Almost) Destroyed My Relationship | ReactNext 2021 (English)](https://www.youtube.com/watch?v=2eJTFt5htS0&ab_channel=ReactNext)
